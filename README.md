@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/to.willian/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-willian-a1144a268/)
 
- ## Meu Perfil profissional no GitHub
+ ## Meu perfil profissional no GitHub
 [![GitHub Profissional](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marcos-willian00/)
 
 ![Marcos GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=mw-bl&show_icons=true&theme=dark#gh-dark-mode-only)
